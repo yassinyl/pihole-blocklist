@@ -2,6 +2,10 @@
 # URL: https://github.com/mhhakim/pihole-blocklist
 # Last update: 15 February, 2021
 
+www.porngo.com
+yespornpleasexxx.com
+yespornplease.to
+pornhd3x.me
 livejasmin.com
 pornhub.com
 xvideos.com
